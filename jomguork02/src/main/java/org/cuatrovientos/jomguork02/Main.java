@@ -86,7 +86,7 @@ public class Main {
 		System.out.println("3. Modify a registry");
 		System.out.println("4. Delete a registry");
 		System.out.println("5. Delete all registries");
-		System.out.println("6. Exit");
+		System.out.println("6. Exit.");
 
 	}
 	}
